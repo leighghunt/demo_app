@@ -1,3 +1,7 @@
+* http://ec2-50-18-11-57.us-west-1.compute.amazonaws.com/users
+* http://ec2-50-18-11-57.us-west-1.compute.amazonaws.com/microposts/
+* http://ruby.railstutorial.org/chapters/a-demo-app#sec:inheritance_hierarchies
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
